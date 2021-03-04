@@ -6,7 +6,19 @@
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 20:22:26 +0900</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>기록하는 삶</title>
+      <link>https://example.org/blog/2021/03/04/%EA%B8%B0%EB%A1%9D%ED%95%98%EB%8A%94-%EC%82%B6/</link>
+      <pubDate>Thu, 04 Mar 2021 20:22:26 +0900</pubDate>
+      
+      <guid>https://example.org/blog/2021/03/04/%EA%B8%B0%EB%A1%9D%ED%95%98%EB%8A%94-%EC%82%B6/</guid>
+      <description>기록하는 삶을 살자. 나를 위한 데이터를 적재한다. 기록하는 것은 나에게 안성맞춤인 데이터를 모으고 정제하는 것이다.
+기억은 불완전하다. 기억은 결코 정확하지 않고 가변적이다. 때문에 가치있는 것을 잃어버릴 수 있다.
+동기부여 효과가 있다. 기록을 하겠다는 생각만으로 의지를 강력히 할 인센티브가 강해진다.
+증명하기에 용이하다. 때때로 삶은 실재보다 실재의 증거가 중요하다.</description>
+    </item>
+    
     <item>
       <title>Linked post</title>
       <link>https://example.org/blog/2015/10/02/linked-post/</link>
